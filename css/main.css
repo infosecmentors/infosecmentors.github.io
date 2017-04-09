@@ -26,6 +26,12 @@ a:visited { color: #0000EE }
     position: fixed;
 }
 
+#container {
+    line-height: 1.4em;
+    width: 320px;
+    margin-left: auto;
+    margin-right: auto;}
+
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
